@@ -1,4 +1,4 @@
-# SAMP NODE EXAMPLE
+# samp node project example
 
 This repository use:\
 samp-node: https://github.com/AmyrAhmady/samp-node \
