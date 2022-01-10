@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "samp-node-lib": "^1.0.5"
+  }
+}

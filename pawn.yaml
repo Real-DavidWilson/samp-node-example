@@ -1,0 +1,14 @@
+site: ""
+user: real_davidwilson
+repo: sppkg
+entry: gamemodes/min.pwn
+output: gamemodes/min.amx
+dependencies:
+- sampctl/samp-stdlib
+- AmyrAhmady/samp-node
+local: true
+runtime:
+  version: 0.3.7
+  mode: server
+  rcon_password: password
+  port: 7777
