@@ -14,7 +14,7 @@ Execute this command to install samp packages on project root:
     `sampctl p ensure`
 
 Install javascript packages:
-    `npm i --prefix ./js` ou `yarn --cwd ./js install`
+    `npm i --prefix ./js` or `yarn --cwd ./js install`
 
 ## Running project
 
